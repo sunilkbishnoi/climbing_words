@@ -1,0 +1,14 @@
+{
+  "name": "climbing-words",
+  "version": "1.1.29",
+  "description": "A word ladder game built with HTML and CSS that presents puzzles where players transform one word into another by changing one letter at a time",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": ["html", "css", "word-game", "word-ladder", "puzzle"],
+  "author": "Sunil Bishnoi",
+  "devDependencies": {
+    "serve": "11.2.0"
+  }
+}
